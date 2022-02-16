@@ -1,0 +1,295 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #f5f7fa;
+}
+/* main styles */
+.main{
+    flex-direction: row;
+    display: flex;
+    width: 1200px;
+    margin: 0px auto;
+}
+
+/* prava_storona styles (main content)*/
+.prava_storona{
+    background: #E6AF36;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.5);
+    padding: 10px 90px 30px 90px;
+} 
+/* about_company styles */
+
+.about_company{
+    background-color: #000000;
+    color: #E6AF36;
+    padding-bottom: 7px;
+}
+.about_problem {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #E6AF36;
+    padding-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    
+}
+.about_name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 55px;
+    color: #E6AF36;
+    margin-top: 2px;
+    margin-left: 350px;
+    margin-bottom: 10px;
+}
+.about_slogan {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 1em;
+    color: #ffffff;
+    margin-top: 2px;
+    margin-left: 190px;
+    margin-bottom: 0px;
+}
+.showreel2020_style {
+    margin-bottom: 0px;
+}
+/* products_styles*/
+.products_block{
+    background-color: #000000;
+    color: #E6AF36;
+    margin-top: -23px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    /* margin: 100px 90px 300px 20px
+    margin: 50px
+    margin: 60px 100px */
+}
+.product_item {
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 24px;
+}
+.product {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #E6AF36;
+    margin-left: 10px;
+}
+/*------ PRODUCT PROBA IMG -------*/
+.product_image2 {
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 27px;
+color: #000000;
+margin-left: 10px;
+}
+.strilka {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;    
+}
+.products_1 {
+margin-top: 1097;    
+margin-left: 10px;
+color: black;
+
+
+}
+.products_2 {
+    padding: 0%;
+margin-left: 550px;
+margin-top: -1095px;
+margin-bottom: 10px;
+color: black;
+}
+.strilka {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;    
+}
+.duzka {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 1em;
+    color: #ffffff;
+}
+.prezent_titles {
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+
+margin-bottom: 10px;
+margin-left: 30px;
+}
+.clients_titles {
+    font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 20px; 
+    margin-top: 45px;
+    margin-bottom: 10px;
+margin-left: 30px;
+}
+.block_our_clients {
+    box-shadow: -6px 6px 15px rgba(0, 0, 0, 0.7);
+    padding: 0%;
+    margin-bottom: 20px;
+}
+.title_3level{
+    background: #E6AF36;
+font-size: 35px;
+color: #0b1625;
+padding: 0%;
+margin-top: 0px;
+margin-left: 380px;
+margin: 0px auto;
+}
+/* clients_styles */
+.clients_styles{
+    background-color: #000000;
+    color: #E6AF36;
+    padding: 0%;
+    margin-top: 50px;
+}
+.opys_clienta {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 15px;
+    color: #686767;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+.company-cli {
+    color: #E6AF36;
+}
+.Clients {
+    
+    color: #FB6D3A;
+}
+/* privat_clients styles */
+.privat_clients{
+    background: #E6AF36;
+    color: #000000;
+}
+.clients_1-2-3 {
+    font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px; 
+    margin-top: 20px;
+    margin-bottom: 10px;
+margin-left: 10px;
+color: #FB6D3A;
+}
+/* zvorot_forma styles */
+.zvorot_forma{
+    background: #E6AF36;
+}
+.contact_US {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 20px;
+    color: #000000;
+        margin-top: 40px;
+        margin-bottom: 10px;
+    margin-left: 10px;
+}
+.buttom {
+    color: #000000;
+    font-size: 20;
+}
+.knopka {
+color: #FB6D3A;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.7);
+margin-left: 50px;
+}
+.telefon {
+    line-height: 35px;
+    margin-left: 200px;
+    letter-spacing: 1em;
+}
+/* liva_storona sidebar styles */
+.liva_storona{
+    background-color: #0b1625;
+    padding-top: 40px;
+    width: 370px;
+}
+.logo {
+    width: 370px;
+    margin-bottom: 50px;    
+}
+.contacts,
+.like_do_this_Soft_Skills,
+.we_help_you {
+margin-left: 40px; 
+}
+.contacts {
+    margin-bottom: 50px;
+}
+.like_do_this_Soft_Skills {
+    margin-bottom: 40px;
+}
+.sidebar_liva_title {
+    color: #ffffff;
+    font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+margin-bottom: 10px;
+}
+.contact_type {
+    font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+margin-right: 10px;
+}
+.contact_link {
+    font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+text-decoration-line: underline;
+color: #8E949C;
+}
+.we_help_you-list {
+    color: #ffffff;
+    padding: 0px;
+    margin-left: 20px;
+}
+.like_do_this-list {
+    color: #ffffff;
+    padding: 0px;
+    margin-left: 20px;
+}
+.help-like-item {
+color: #e6ae36;
+}
+.help-like-text {
+    color: #ffffff;
+    font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+}
